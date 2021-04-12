@@ -48,26 +48,31 @@ Install using HACS component:
 
 ### Replace the following
  ```yaml
-          cards:
-            - type: 'custom:fold-entity-row'
-              head: group.1
-              entities:
-                - automation.1
-                - automation.2
-            - type: 'custom:fold-entity-row'
-              head: group.2
-              entities:
-                - automation.achterdeur_open_2
-                - automation.voordeur_open
-            - type: 'custom:fold-entity-row'
-              head: group.3
-              entities:
-                - automation.3
-                - automation.4
+     cards:
+       - type: 'custom:fold-entity-row'
+         head: group.1 #delete number 1 and fill in the correct group name
+         entities:
+           - automation.1 #delete number 1 and fill in the correct automation name
+           - automation.2 #delete number 2 and fill in the correct automation name
+       - type: 'custom:fold-entity-row'
+         head: group.2 #delete number 2 and fill in the correct group name
+         entities:
+           - automation.2 #delete number 3 and fill in the correct automation name
+           - automation.3 #delete number 4 and fill in the correct automation name
 ```
 - replace all `head:` for the correct `group` name
 - replace all `entities:` for the correct one
 
+### add extra rows of automations groups
+
+- If you want more entity rows, just add this pease of code
+ ```yaml
+       - type: 'custom:fold-entity-row'
+         head: group.2 #delete number 2 and fill in the correct group name
+         entities:
+           - automation.2 #delete number 3 and fill in the correct automation name
+           - automation.3 #delete number 4 and fill in the correct automation name
+```
 
 ### Result
 
