@@ -20,13 +20,13 @@ Automations Dashboard for Home Assistant Dwains Dashboard
 - Make sure you have installed [fontawesome icons](https://github.com/thomasloven/hass-fontawesome). This can be done manually or directly via hacs.
 
 ### Installation Add-on
-- Copy the `birthdays` folder in to the `dwains-dashboard/addons/more_page` directory.
+- Copy the `automation` folder in to the `dwains-dashboard/addons/more_page` directory.
 - Open your `more_page.yaml` file in `dwains-dashboard/configs` and add the following;
  ```yaml
-     - name: Birthdays
+     - name: Automations
        main_menu: 'true' #Show this addon in the main navigation bar!
-       icon: fas:gifts
-       path: 'dwains-dashboard/addons/more_page/birthdays/page.yaml'
+       icon: fas:robot
+       path: 'dwains-dashboard/addons/more_page/automation/page.yaml'
 ```
 - Reload the theme configuration via Theme Settings
 
