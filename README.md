@@ -4,15 +4,17 @@ Automations Dashboard for Home Assistant Dwains Dashboard
 ##### Created by Léon van der Linden
 ##### v1.0.0
 
-![uptimerobot](https://www.iotworldtoday.com/files/2019/11/GettyImages-1097894826-724x432.jpg)
+![Automation](https://www.iotworldtoday.com/files/2019/11/GettyImages-1097894826-724x432.jpg)
 
 ### Prerequisite
-- Make sure you have the [Google Calendar Event](https://www.home-assistant.io/integrations/calendar.google/) integration
-```yaml
-     # Example configuration.yaml entry
-     google:
-       client_id: YOUR_CLIENT_ID
-       client_secret: YOUR_CLIENT_SECRET
+- Make sure you have the automations placed in diverse [Groups](https://www.home-assistant.io/integrations/group/) otherwise see how to do that [Groups](https://www.home-assistant.io/integrations/group/) or the example below
+```
+  group:
+    deur_notify_groep:
+    name: Deur Notify Groep
+    entities:
+      - automation.achterdeur_open_2
+      - automation.voordeur_open
 ```
 - Make a calendar in Google with all the birthdays and sync the calendar with Home Assistant
 - Make sure you have installed [fontawesome icons](https://github.com/thomasloven/hass-fontawesome). This can be done manually or directly via hacs.
