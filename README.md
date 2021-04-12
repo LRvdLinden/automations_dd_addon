@@ -68,10 +68,10 @@ Install using HACS component:
 - If you want more entity rows, just add this pease of code
  ```yaml
        - type: 'custom:fold-entity-row'
-         head: group.2 #delete number 2 and fill in the correct group name
+         head: group.3 #delete number 3 and fill in the correct group name
          entities:
-           - automation.2 #delete number 3 and fill in the correct automation name
-           - automation.3 #delete number 4 and fill in the correct automation name
+           - automation.5 #delete number 5 and fill in the correct automation name
+           - automation.6 #delete number 6 and fill in the correct automation name
 ```
 
 ### Result
