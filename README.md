@@ -10,8 +10,8 @@ Automations Dashboard for Home Assistant Dwains Dashboard
 - Make sure you have the automations placed in diverse [Groups](https://www.home-assistant.io/integrations/group/) otherwise see how to do that [Here!](https://www.home-assistant.io/integrations/group/) or the example below
 ```
   group:
-    deur_notify_groep:
-    name: Deur Notify Groep
+    door_notify_group:
+    name: Door Notify Group
     entities:
       - automation.achterdeur_open_2
       - automation.voordeur_open
