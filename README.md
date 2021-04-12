@@ -19,6 +19,19 @@ Automations Dashboard for Home Assistant Dwains Dashboard
 - Make a calendar in Google with all the birthdays and sync the calendar with Home Assistant
 - Make sure you have installed [fontawesome icons](https://github.com/thomasloven/hass-fontawesome). This can be done manually or directly via hacs.
 
+### Installation Atomic Calendar Revive
+HACS (recommended)
+Install using HACS component:
+
+- You need HACS installed and configured
+- Go to plugins tab
+- Search for Atomic Calendar Revive
+- If you use the Lovelace Editor then first go to your user provile and enable Advanced Mode
+- Now add the follwoing to Configuration -> Lovelace Dashboards -> Resources
+ ```yaml
+    /hacsfiles/atomic-calendar-revive/atomic-calendar-revive.js
+ ```
+ 
 ### Installation Add-on
 - Copy the `automation` folder in to the `dwains-dashboard/addons/more_page` directory.
 - Open your `more_page.yaml` file in `dwains-dashboard/configs` and add the following;
