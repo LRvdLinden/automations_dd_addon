@@ -53,4 +53,5 @@ Automations Dashboard for Home Assistant Dwains Dashboard
 
 ### Result
 
+![IMG_0542](https://user-images.githubusercontent.com/77990847/114416033-8bfb8c80-9bb0-11eb-8c69-86e1fcfe5cc6.PNG)
 
