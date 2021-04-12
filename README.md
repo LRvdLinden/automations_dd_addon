@@ -1,5 +1,5 @@
 
-# CONCEPT!!! Automations Dwains Dashboard Add-on (more_page)
+# Automations Dwains Dashboard Add-on (more_page)
 Automations Dashboard for Home Assistant Dwains Dashboard
 ##### Created by [Léon van der Linden](https://github.com/LRvdLinden)
 ##### v1.0.0
