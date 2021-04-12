@@ -48,23 +48,25 @@ Install using HACS component:
 
 ### Replace the following
  ```yaml
-            - type: custom:atomic-calendar-revive
-              style: |
-                ha-card {
-                  border-radius: 5px;
-                  background-color: var(--dwains-theme-primary);
-                }
-                .cal-titleContainer {
-                  display: none;
-                }
-              showProgressBar: false
-              eventBarColor: 'var(--dwains-theme-grey)'
-              dayWrapperLineColor: 'var(--dwains-theme-grey)'
-              timeColor: 'var(--dwains-theme-grey)'
+          cards:
+            - type: 'custom:fold-entity-row'
+              head: group.1
               entities:
-                - calendar.friends_birthdays
+                - automation.1
+                - automation.2
+            - type: 'custom:fold-entity-row'
+              head: group.2
+              entities:
+                - automation.achterdeur_open_2
+                - automation.voordeur_open
+            - type: 'custom:fold-entity-row'
+              head: group.3
+              entities:
+                - automation.1
+                - automation.2
 ```
-- on line 60: add the correct `entity` or `entities` to show
+- replace all `head:` for the correct `group` name
+- replace all `entities:` for the correct one
 
 
 ### Result
