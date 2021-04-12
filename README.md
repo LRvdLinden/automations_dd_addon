@@ -7,7 +7,7 @@ Automations Dashboard for Home Assistant Dwains Dashboard
 ![Automation](https://www.iotworldtoday.com/files/2019/11/GettyImages-1097894826-724x432.jpg)
 
 ### Prerequisite
-- Make sure you have the automations placed in diverse [Groups](https://www.home-assistant.io/integrations/group/) otherwise see how to do that [Here!](https://www.home-assistant.io/integrations/group/) or the example below
+- Make sure you have the automations placed in diverse [Groups](https://www.home-assistant.io/integrations/group/), or see how to do that [Here!](https://www.home-assistant.io/integrations/group/) or the example below
 ```
   group:
     door_notify_group:
