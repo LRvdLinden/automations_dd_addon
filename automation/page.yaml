@@ -14,24 +14,12 @@
           items_classes: 'col-xs-12 col-md-12'
           cards:
             - type: 'custom:fold-entity-row'
-              head: group.automation_light_groep
+              head: group.1 #delete number 1 and fill in the correct group name
               entities:
-                - automation.opstaan
-                - automation.opstaan_uit
-                - automation.goedemorgen
-                - automation.nachtlampen_aan
-                - automation.scene_avond1_2
-                - automation.veranda_aan
+                - automation.1 #delete number 1 and fill in the correct automation name
+                - automation.2 #delete number 2 and fill in the correct automation name
             - type: 'custom:fold-entity-row'
-              head: group.deur_notify_groep
+              head: group.2 #delete number 2 and fill in the correct group name
               entities:
-                - automation.achterdeur_open_2
-                - automation.voordeur_open
-            - type: 'custom:fold-entity-row'
-              head: group.beweging_notify_groep
-              entities:
-                - automation.beweging_slaapkamer_kai
-                - automation.beweging_slaapkamer_fay
-                - automation.beweging_slaapkamer_nyk
-                - automation.beweging_zolder
-
+                - automation.2 #delete number 3 and fill in the correct automation name
+                - automation.3 #delete number 4 and fill in the correct automation name
