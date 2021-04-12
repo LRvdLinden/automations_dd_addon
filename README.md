@@ -13,8 +13,8 @@ Automations Dashboard for Home Assistant Dwains Dashboard
     door_notify_group:
     name: Door Notify Group
     entities:
-      - automation.achterdeur_open_2
-      - automation.voordeur_open
+      - automation.backdoor_open
+      - automation.frontdoor_open
 ```
 - Make a calendar in Google with all the birthdays and sync the calendar with Home Assistant
 - Make sure you have installed [fontawesome icons](https://github.com/thomasloven/hass-fontawesome). This can be done manually or directly via hacs.
