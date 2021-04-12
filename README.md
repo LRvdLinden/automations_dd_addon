@@ -57,8 +57,8 @@ Install using HACS component:
        - type: 'custom:fold-entity-row'
          head: group.2 #delete number 2 and fill in the correct group name
          entities:
-           - automation.2 #delete number 3 and fill in the correct automation name
-           - automation.3 #delete number 4 and fill in the correct automation name
+           - automation.3 #delete number 3 and fill in the correct automation name
+           - automation.4 #delete number 4 and fill in the correct automation name
 ```
 - replace all `head:` for the correct `group` name
 - replace all `entities:` for the correct one
