@@ -1,8 +1,20 @@
+<h1 align="center">Automations Dwains Dashboard Add-on (more_page)</h1>
 
-# Automations Dwains Dashboard Add-on (more_page)
-Automations Dashboard for Home Assistant Dwains Dashboard
-##### Created by [Léon van der Linden](https://github.com/LRvdLinden)
-##### v1.0.0
+<p align="center">
+  <a href="https://github.com/custom-components/hacs">
+    <img src="https://img.shields.io/badge/HACS-Default-orange.svg" />
+  </a>
+  <a href="https://github.com/LRvdLinden/UptimeRobot-HA-Card/">
+    <img src="https://img.shields.io/github/v/release/LRvdLinden/UptimeRobot-HA-Card" />
+  </a>
+  <a href="https://github.com/dylandoamaral/uptime-card">
+    <img src="https://img.shields.io/github/commit-activity/m/LRvdLinden/UptimeRobot-HA-Card" />
+  </a>
+</p>
+<p align="center">A automations dashboard to display automations in a nice way.</p>
+
+<p align="center">Created by <a href="https://github.com/LRvdLinden">Léon van der Linden</a>
+</p> 
 
 ![Automation](https://www.iotworldtoday.com/files/2019/11/GettyImages-1097894826-724x432.jpg)
 
