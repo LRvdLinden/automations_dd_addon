@@ -13,7 +13,11 @@
       <a href="https://github.com/LRvdLinden/automations_dd_addon">
     <img src="https://img.shields.io/github/downloads/LRvdLinden/automations_dd_addon/latest/total?color=purple&label=%20release%20Downloads" />
   </a>
+    <a href="https://github.com/LRvdLinden/">
+    <img src="https://img.shields.io/github/followers/LRvdLinden?style=social" />
+  </a>
 </p>
+
 <p align="center">A automations dashboard to display automations in a nice way.</p>
 
 <p align="center">Created by <a href="https://github.com/LRvdLinden">Léon van der Linden</a>
