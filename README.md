@@ -4,11 +4,11 @@
   <a href="https://github.com/custom-components/hacs">
     <img src="https://img.shields.io/badge/HACS-Default-orange.svg" />
   </a>
-  <a href="https://github.com/LRvdLinden/UptimeRobot-HA-Card/">
-    <img src="https://img.shields.io/github/v/release/LRvdLinden/UptimeRobot-HA-Card" />
+  <a href="https://github.com/LRvdLinden/automations_dd_addon">
+    <img src="https://img.shields.io/github/v/release/LRvdLinden/automations_dd_addon" />
   </a>
-  <a href="https://github.com/dylandoamaral/uptime-card">
-    <img src="https://img.shields.io/github/commit-activity/m/LRvdLinden/UptimeRobot-HA-Card" />
+  <a href="https://github.com/LRvdLinden/automations_dd_addon">
+    <img src="https://img.shields.io/github/commit-activity/m/LRvdLinden/automations_dd_addon" />
   </a>
 </p>
 <p align="center">A automations dashboard to display automations in a nice way.</p>
