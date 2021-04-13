@@ -29,7 +29,8 @@
 </p>
 
 
-### Prerequisite
+## Prerequisite
+---
 - Make sure you have the automations placed in diverse [Groups](https://www.home-assistant.io/integrations/group/), or see how to do that [Here!](https://www.home-assistant.io/integrations/group/) or the example below
 ```
   group:
@@ -43,7 +44,8 @@
 - Make sure you have installed [fontawesome icons](https://github.com/thomasloven/hass-fontawesome). This can be done manually or directly via hacs.
 
 
-### Installation Atomic Calendar Revive
+## Installation Atomic Calendar Revive
+---
 HACS (recommended)
 Install using HACS component:
 
@@ -57,7 +59,8 @@ Install using HACS component:
  ```
  
  
-### Installation Add-on
+## Installation Add-on
+---
 - Copy the `automation` folder in to the `dwains-dashboard/addons/more_page` directory.
 - Open your `more_page.yaml` file in `dwains-dashboard/configs` and add the following;
  ```yaml
@@ -69,7 +72,8 @@ Install using HACS component:
 - Reload the theme configuration via Theme Settings
 
 
-### Replace the following
+## Replace the following
+---
  ```yaml
      cards:
        - type: 'custom:fold-entity-row'
@@ -86,7 +90,8 @@ Install using HACS component:
 - replace all `head:` for the correct `group` name
 - replace all `entities:` for the correct one
 
-### add extra rows of automations groups
+## add extra rows of automations groups
+---
 
 - If you want more entity rows, just add this pease of code
  ```yaml
@@ -97,7 +102,8 @@ Install using HACS component:
            - automation.6 #delete number 6 and fill in the correct automation name
 ```
 
-### Result
+## Result
+---
 
 ![IMG_0542](https://user-images.githubusercontent.com/77990847/114416033-8bfb8c80-9bb0-11eb-8c69-86e1fcfe5cc6.PNG)
 
