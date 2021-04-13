@@ -1,8 +1,8 @@
 <h1 align="center">Automations Dwains Dashboard Add-on (more_page)</h1>
 
 <p align="center">
-  <a href="https://github.com/custom-components/hacs">
-    <img src="https://img.shields.io/badge/https://img.shields.io/badge/Dwains%20Dashboard-Default-blue.svg" />
+  <a href="https://dwainscheeren.github.io/dwains-lovelace-dashboard/">
+    <img src="https://img.shields.io/badge/Dwains%20Dashboard-Default-blue.svg" />
   </a>
   <a href="https://github.com/custom-components/hacs">
     <img src="https://img.shields.io/badge/HACS-Default-orange.svg" />
