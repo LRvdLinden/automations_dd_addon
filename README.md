@@ -2,6 +2,9 @@
 
 <p align="center">
   <a href="https://github.com/custom-components/hacs">
+    <img src="https://img.shields.io/badge/https://img.shields.io/badge/Dwains%20Dashboard-Default-blue.svg" />
+  </a>
+  <a href="https://github.com/custom-components/hacs">
     <img src="https://img.shields.io/badge/HACS-Default-orange.svg" />
   </a>
   <a href="https://github.com/LRvdLinden/automations_dd_addon">
