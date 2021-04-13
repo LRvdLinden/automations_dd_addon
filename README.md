@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://dwainscheeren.github.io/dwains-lovelace-dashboard/">
-    <img src="https://img.shields.io/badge/Dwains%20Dashboard-Default-blue.svg" />
+    <img src="https://img.shields.io/badge/Dwains%20Dashboard-Default-orange.svg" />
   </a>
   <a href="https://github.com/custom-components/hacs">
     <img src="https://img.shields.io/badge/HACS-Default-orange.svg" />
