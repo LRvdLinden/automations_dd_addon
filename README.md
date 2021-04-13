@@ -10,10 +10,6 @@
   <a href="https://github.com/LRvdLinden/automations_dd_addon">
     <img src="https://img.shields.io/github/v/release/LRvdLinden/automations_dd_addon" />
   </a>
-  <a href="https://github.com/LRvdLinden/automations_dd_addon">
-    <img src="https://img.shields.io/github/traffic-activity/m/LRvdLinden/automations_dd_addon" />
-  </a>
-  </a>
       <a href="https://github.com/LRvdLinden/automations_dd_addon">
     <img src="https://img.shields.io/github/downloads/LRvdLinden/automations_dd_addon/latest/total?color=purple&label=%20release%20Downloads" />
   </a>
