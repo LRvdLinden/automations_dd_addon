@@ -19,7 +19,10 @@
 <p align="center">Created by <a href="https://github.com/LRvdLinden">Léon van der Linden</a>
 </p> 
 
-![Automation](https://www.iotworldtoday.com/files/2019/11/GettyImages-1097894826-724x432.jpg)
+<p align="center">
+  <img src="https://www.iotworldtoday.com/files/2019/11/GettyImages-1097894826-724x432.jpg" />
+</p>
+
 
 ### Prerequisite
 - Make sure you have the automations placed in diverse [Groups](https://www.home-assistant.io/integrations/group/), or see how to do that [Here!](https://www.home-assistant.io/integrations/group/) or the example below
