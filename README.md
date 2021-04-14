@@ -102,6 +102,11 @@ Install using HACS component:
            - automation.6 #delete number 6 and fill in the correct automation name
 ```
 
+## Schedular Card
+---
+<img width="439" alt="image" src="https://user-images.githubusercontent.com/77990847/114762133-acb71400-9d61-11eb-9296-ae70ae510ad6.png">
+
+
 ## Result
 ---
 
