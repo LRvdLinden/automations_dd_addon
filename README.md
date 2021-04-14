@@ -41,8 +41,8 @@
       - automation.frontdoor_open
 ```
 - Make a calendar in Google with all the birthdays and sync the calendar with Home Assistant
-- Make sure you have installed [fontawesome icons](https://github.com/thomasloven/hass-fontawesome). This can be done manually or directly via hacs.
-
+- Make sure you have installed HACS Fronted [fontawesome icons](https://github.com/thomasloven/hass-fontawesome) and [Schedular Card](https://github.com/LRvdLinden/scheduler-card). This can be done manually or directly via hacs.
+- Make sure you have installed HACS Integration [scheduler-component](https://github.com/LRvdLinden/scheduler-component). This can be done manually or directly via hacs.
 
 ## Installation Atomic Calendar Revive
 ---
@@ -105,6 +105,16 @@ Install using HACS component:
 ## Schedular Card
 ---
 <img width="439" alt="image" src="https://user-images.githubusercontent.com/77990847/114762133-acb71400-9d61-11eb-9296-ae70ae510ad6.png">
+
+![image](https://user-images.githubusercontent.com/77990847/114762691-4bdc0b80-9d62-11eb-9639-d3e2a44a2e96.gif)
+
+![image](https://user-images.githubusercontent.com/77990847/114762740-55657380-9d62-11eb-923a-1584b70f93a8.png) ![image](https://user-images.githubusercontent.com/77990847/114762774-5e564500-9d62-11eb-946c-742d5a2f1f56.png)
+
+![image](https://user-images.githubusercontent.com/77990847/114763055-affecf80-9d62-11eb-8078-757c999de2ff.png)
+
+![image](https://user-images.githubusercontent.com/77990847/114763079-b55c1a00-9d62-11eb-8d95-2549bf79ecf4.png)
+
+![image](https://user-images.githubusercontent.com/77990847/114762786-63b38f80-9d62-11eb-917d-07e39900fa7d.png)
 
 
 ## Result
