@@ -119,8 +119,9 @@ Install using HACS component:
 
 ## Result
 ---
+![IMG_0545](https://user-images.githubusercontent.com/77990847/114765528-8c895400-9d65-11eb-89cb-2a6d75711dba.PNG)
 
-![IMG_0542](https://user-images.githubusercontent.com/77990847/114416033-8bfb8c80-9bb0-11eb-8c69-86e1fcfe5cc6.PNG)
+
 
 ---
 Enjoy my card? Help me out for a couple of :beers: or a :coffee:!
