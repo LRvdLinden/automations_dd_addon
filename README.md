@@ -40,8 +40,7 @@
       - automation.backdoor_open
       - automation.frontdoor_open
 ```
-- Make a calendar in Google with all the birthdays and sync the calendar with Home Assistant
-- Make sure you have installed HACS Fronted [fontawesome icons](https://github.com/thomasloven/hass-fontawesome) and [Schedular Card](https://github.com/LRvdLinden/scheduler-card). This can be done manually or directly via hacs.
+- Make sure you have installed HACS Fronted [fontawesome icons](https://github.com/thomasloven/hass-fontawesome) and [Scheduler Card](https://github.com/LRvdLinden/scheduler-card). This can be done manually or directly via hacs.
 - Make sure you have installed HACS Integration [scheduler-component](https://github.com/LRvdLinden/scheduler-component). This can be done manually or directly via hacs.
 
 ## Installation Atomic Calendar Revive
