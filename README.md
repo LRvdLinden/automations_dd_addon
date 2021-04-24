@@ -40,22 +40,8 @@
       - automation.backdoor_open
       - automation.frontdoor_open
 ```
-- Make sure you have installed HACS Fronted [fontawesome icons](https://github.com/thomasloven/hass-fontawesome) and [Scheduler Card](https://github.com/LRvdLinden/scheduler-card). This can be done manually or directly via hacs.
+- Make sure you have installed HACS Fronted [fontawesome icons](https://github.com/thomasloven/hass-fontawesome), [Search Card](https://github.com/postlund/search-card) and [Scheduler Card](https://github.com/LRvdLinden/scheduler-card). This can be done manually or directly via hacs.
 - Make sure you have installed HACS Integration [scheduler-component](https://github.com/LRvdLinden/scheduler-component). This can be done manually or directly via hacs.
-
-## Installation Atomic Calendar Revive
----
-HACS (recommended)
-Install using HACS component:
-
-- You need HACS installed and configured
-- Go to plugins tab
-- Search for Atomic Calendar Revive
-- If you use the Lovelace Editor then first go to your user provile and enable Advanced Mode
-- Now add the follwoing to Configuration -> Lovelace Dashboards -> Resources
- ```yaml
-    /hacsfiles/atomic-calendar-revive/atomic-calendar-revive.js
- ```
  
  
 ## Installation Add-on
@@ -114,6 +100,11 @@ Install using HACS component:
 ![image](https://user-images.githubusercontent.com/77990847/114763079-b55c1a00-9d62-11eb-8d95-2549bf79ecf4.png)
 
 ![image](https://user-images.githubusercontent.com/77990847/114762786-63b38f80-9d62-11eb-917d-07e39900fa7d.png)
+
+## Search Card
+---
+
+![Apr-24-2021 15-49-31](https://user-images.githubusercontent.com/77990847/115961003-c2bc9580-a514-11eb-9a5a-70720ea8912f.gif)
 
 
 ## Result
