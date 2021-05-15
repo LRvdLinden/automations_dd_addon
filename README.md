@@ -7,7 +7,7 @@
   <a href="https://github.com/LRvdLinden/automations_dd_addon">
     <img src="https://img.shields.io/github/v/release/LRvdLinden/automations_dd_addon" />
   </a>
-      <a href="https://github.com/LRvdLinden/homeassistant-config/commits">
+      <a href="https://github.com/LRvdLinden/automations_dd_addon/commits">
     <img src="https://img.shields.io/github/last-commit/LRvdLinden/automations_dd_addon.svg?style=plasticr" />
   </a>
     <a href="https://github.com/LRvdLinden/">
